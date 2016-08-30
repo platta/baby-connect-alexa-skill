@@ -1,0 +1,14 @@
+RecordDiaperIntent {child} had a {diaperType} diaper
+RecordDiaperIntent {child} made a {diaperType} diaper
+RecordDiaperIntent record a {diaperType} diaper for {child}
+RecordBottleIntent {child} had {amount} ounces of {bottleType}
+RecordBottleIntent {child} drank {amount} ounces of {bottleType}
+RecordBottleIntent {child} took {amount} ounces of {bottleType}
+RecordBottleIntent {child} had {amount} ounce of {bottleType}
+RecordBottleIntent {child} drank {amount} ounce of {bottleType}
+RecordBottleIntent {child} took {amount} ounce of {bottleType}
+RecordBottleIntent record a {amount} ounce bottle of {bottleType} for {child}
+RecordBottleIntent {child} had {amount} ml of {bottleType}
+RecordBottleIntent {child} drank {amount} ml of {bottleType}
+RecordBottleIntent {child} took {amount} ml of {bottleType}
+RecordBottleIntent record a {amount} ml bottle of {bottleType} for {child}

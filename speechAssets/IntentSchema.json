@@ -1,0 +1,35 @@
+{
+    "intents": [
+        {
+            "intent": "RecordDiaperIntent",
+            "slots": [
+                {
+                    "name": "child",
+                    "type": "LIST_OF_CHILDREN"
+                },
+                {
+                    "name": "diaperType",
+                    "type": "LIST_OF_DIAPER_TYPES"
+                }
+            ]
+        },
+        {
+            "intent": "RecordBottleIntent",
+            "slots": [
+                {
+                    "name": "child",
+                    "type": "LIST_OF_CHILDREN"
+                },
+                {
+                    "name": "amount",
+                    "type": "AMAZON.NUMBER"
+                },
+                {
+                    "name": "bottleType",
+                    "type": "LIST_OF_BOTTLE_TYPES"
+                }
+            ]
+        }
+        
+    ]
+}

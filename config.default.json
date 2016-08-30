@@ -1,0 +1,4 @@
+{
+    "sqsQueueUrl": "YOUR_QUEUE_URL",
+    "alexaAppId": "YOUR_APP_ID"
+}
